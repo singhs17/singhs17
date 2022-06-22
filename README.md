@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singhs17
-- 👀 I’m interested in Cloud, ML, Python
+- 👀 I’m interested in Cloud, ML, Python, PySpark and ADF
 - 🌱 I’m currently pursuing Cloud Practitioner Certifications and wokring on enhancing my programming skills
 - 💞️ I’m looking to collaborate on Python projects involving Scikit library
 - 📫 Drop me an email : shivangisingh9505@gmail.com
